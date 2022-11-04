@@ -1,4 +1,6 @@
 # Java_OOP_day_code
+![image](https://user-images.githubusercontent.com/78548649/199979599-626150fb-173c-4f03-b76b-9e41f4979fee.png)
+
 
 ## Table of contents
 * [Task-1](#task-1)
